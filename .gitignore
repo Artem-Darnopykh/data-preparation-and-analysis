@@ -1,39 +1,4 @@
-# Системні файли
-.DS_Store
-Thumbs.db
-desktop.ini
-
-# Налаштування IDE (VS Code)
-.idea/
-.vscode/
-*.swp
-*.swo
-*.user
-
-# Python
-__pycache__/
-*.py[cod]
-*$py.class
 venv/
-env/
-.env
-build/
-dist/
-*.egg-info/
-
-# C++
-bin/
-obj/
-/build/
-*.exe
-*.out
-*.app
-*.o
-
-# Дані та логи (згідно з вимогами РСО)
-*.txt
+.ipynb_checkpoints/
 *.csv
-*.json
-*.log
-*.sqlite
-*.db
+*.data
