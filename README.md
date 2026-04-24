@@ -20,14 +20,17 @@
 
 1. Перейдіть у директорію лабораторної роботи:
 ```bash
-cd lab3
+cd lab3```
 
 2. Створіть та активуйте віртуальне середовище:
+```bash
 python3 -m venv venv
-source venv/bin/activate
+source venv/bin/activate```
 
 3. Встановіть необхідні бібліотеки:
-pip install -r requirements.txt
+```bash
+pip install -r requirements.txt```
 
 4. Запустіть Jupyter Notebook:
-jupyter notebook
+```bash
+jupyter notebook```
