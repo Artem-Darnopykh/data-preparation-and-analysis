@@ -1,0 +1,14 @@
+venv/
+.venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+.streamlit/config.toml
+.streamlit/static/
+cleaned_data.csv
+data/
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
